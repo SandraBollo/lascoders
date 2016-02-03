@@ -1,0 +1,53 @@
+
+div div{
+    width: 1000px;
+    height:200px;
+    margin-top: 10px;
+    display: inline-block;
+    margin-left: 3%;
+    padding-top: 25%;
+    margin-bottom: 2%;
+
+
+}
+hr { 
+  background-color: black;
+  height: 5px;
+  border:0px;
+  margin-height: 20px;
+  margin-right: 50px;
+}
+.title {
+    background-color: black;
+}
+
+
+
+ 
+
+
+.uno{
+    padding: 15px;
+    background-color: white;
+    margin: 50px;
+     width:200px; 
+     height:200px;
+     display: inline-block;
+    
+    
+
+
+ 
+	
+
+ }
+ .dos{
+     padding: 15px;
+    background-color: white;
+    margin: 50px;
+    width:200px; 
+    height:200px;
+    display: inline-block;
+
+
+   }
